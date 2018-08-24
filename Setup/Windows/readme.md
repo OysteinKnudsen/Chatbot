@@ -21,9 +21,8 @@
 1. Open Android Studio
 * Start a new project if you haven't already done it
 2. Go to Tools>Android>SDK Manager
-3. Select Android 6.0 (API level 23).
+3. Select Android 7.1.1 (API level 25).
 4. Check the "Show package details" box and make sure you are downloading every component you need. You can skip everything with the words "wear" or "tv" in them, but you should download the rest.
-* If you have enough space and time, you can include Android 7.0 and 7.1
 5. Press apply and wait for download to finish
 
 #### Opening Android Studio for the first time
@@ -48,3 +47,9 @@
 
 ### Google account
 * If you don't have a Google account make one [here](https://accounts.google.com/SignUp)
+
+### Build errors
+* If by any chance there are build errors when you build the app, install whatever it says it is missing. 
+Example: 
+Failed to find target with hash string 'android-25' in: /Users/kth/Library/Android/sdk
+Install missing platform(s) and sync project (Clickable link)
