@@ -6,7 +6,7 @@
 - Install the Android SDK with the required components
 - Make sure you have Java 8
 
-- Provice an Android device: either physical or emulator
+- Provide an Android device: either physical or emulator
 - Have a Google account
 
 
