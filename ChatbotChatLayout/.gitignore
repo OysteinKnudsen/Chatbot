@@ -100,7 +100,11 @@ obj/
 /out/
 
 # User-specific configurations
+.idea/caches/
 .idea/libraries/
+.idea/shelf/
+.idea/workspace.xml
+.idea/tasks.xml
 .idea/.name
 .idea/compiler.xml
 .idea/copyright/profiles_settings.xml
@@ -108,6 +112,7 @@ obj/
 .idea/misc.xml
 .idea/modules.xml
 .idea/scopes/scope_settings.xml
+.idea/dictionaries
 .idea/vcs.xml
 .idea/jsLibraryMappings.xml
 .idea/datasources.xml
