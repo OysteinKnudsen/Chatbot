@@ -27,7 +27,7 @@
 ### Android SDK
 1. Open Android Studio, if it's the first time go to "Opening Android Studio for the first time"
 * Start a new project if you haven't already done it
-2. Go to Tools>Android>SDK Manager
+2. Open SDK Manager. This can be found at the top meny under Tools. 
 3. Select Android 7.1.1 (API level 25).
 4. Check the "Show package details" box and make sure you are downloading every component you need. You can skip everything with the words "wear" or "tv" in them, but you should download the rest.
 5. Press apply and wait for download to finish
@@ -51,7 +51,7 @@
 
 2. Open a project, new or existing.
 
-3. Go to Tools>Android>AVD Manager
+3. Open AVD Manager (Android virtual device manager). This can be found at the top meny under Tools. 
 
 4. If you have a virtual device in the list, skip the rest of the steps.
 
