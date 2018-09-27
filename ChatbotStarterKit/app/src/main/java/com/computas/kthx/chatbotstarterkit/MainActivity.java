@@ -30,7 +30,7 @@ public class MainActivity extends AppCompatActivity implements AIListener {
 
     // ApiAi services
     private AIDataService aiDataService;
-    private String ACCESS_TOKEN = "*** INSERT TOKEN HERE ***";
+    private String ACCESS_TOKEN = "06b98fe6af4e41dfa1cfbb063567f03d";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
